@@ -1,0 +1,28 @@
+# This file is *NOT* reloaded automatically when you use 'jekyll serve'.
+# If you change this file, please restart the server process.
+
+include: ['_pages']
+
+title: Disencyclopedia
+baseurl: ""
+url: https://disinfo.quaidorsay.fr
+
+search_enabled: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      nav_exclude: false
+      numbered_headers: true
+      search_exclude: false
+
+exclude:
+  - README.md
+  - .circleci
+  - vendor
+
+kramdown:
+  toc_levels: 2..4
