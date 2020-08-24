@@ -2,7 +2,7 @@
 parent: Reaction
 title: Tools
 nav_order: 3
-permalink: /encyclopedia/reaction/tools
+permalink: /reaction/tools
 ---
 
 # Reaction tools

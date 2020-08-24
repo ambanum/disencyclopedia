@@ -2,7 +2,7 @@
 parent: Research
 title: Tools
 nav_order: 3
-permalink: /encyclopedia/research/tools
+permalink: /research/tools
 ---
 
 # Research tools

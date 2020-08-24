@@ -2,7 +2,7 @@
 parent: Reaction
 title: Case studies
 nav_order: 1
-permalink: /encyclopedia/reaction/case-studies
+permalink: /reaction/case-studies
 ---
 
 # Reaction case studies

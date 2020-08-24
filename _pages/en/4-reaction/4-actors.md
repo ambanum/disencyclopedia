@@ -2,7 +2,7 @@
 parent: Reaction
 title: Actors
 nav_order: 4
-permalink: /encyclopedia/reaction/actors
+permalink: /reaction/actors
 ---
 
 # Reaction actors

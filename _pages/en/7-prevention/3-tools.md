@@ -2,7 +2,7 @@
 parent: Prevention
 title: Tools
 nav_order: 3
-permalink: /encyclopedia/prevention/tools
+permalink: /prevention/tools
 ---
 
 # Prevention tools
@@ -13,7 +13,7 @@ permalink: /encyclopedia/prevention/tools
 
 ### Bad News
 
-[Bad News](https://getbadnews.com/#intro) is a textual video game running in the browser and developed by [Drog](/encyclopedia/prevention/actors) in collaboration with the University of Cambridge. In this game, the player chooses which content to share on social media and how to promote it, with simulated reactions. The goal of the game is to amass as many followers as possible and influence them to serve the player’s own interests, at the expense of facts and cohesion.
+[Bad News](https://getbadnews.com/#intro) is a textual video game running in the browser and developed by [Drog](/prevention/actors) in collaboration with the University of Cambridge. In this game, the player chooses which content to share on social media and how to promote it, with simulated reactions. The goal of the game is to amass as many followers as possible and influence them to serve the player’s own interests, at the expense of facts and cohesion.
 
 It is based on the inoculation theory, exposing people to weakened versions of information manipulation so that they can recognize it in the future and counter its effects.
 

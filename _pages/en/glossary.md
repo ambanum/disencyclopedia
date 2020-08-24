@@ -1,5 +1,5 @@
 ---
-permalink: /encyclopedia/glossary
+permalink: /glossary
 nav_order: 12
 begins_new_menu_section: true
 numbered_headers: false
