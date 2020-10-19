@@ -1,0 +1,20 @@
+
+{% case page.lang %}
+	{% when "en" %}
+		{% capture permalink %}{{ page.permalink }}/fr{% endcapture %}
+		{% assign permalinkTitle = "Consulter ce document en français" %}
+		{% assign flagHref = "/assets/img/flags/fr.svg" %}
+		{% assign flagAlt = "Drapeau français" %}
+	{% when "fr" %}
+		{% capture permalink %}{{ page.permalink | remove: "/fr" }}{% endcapture %}
+		{% assign permalinkTitle = "Read this document in English" %}
+		{% assign flagHref = "/assets/img/flags/gb.svg" %}
+		{% assign flagAlt = "English flag" %}
+{% endcase %}
+
+<div class="langswitcher">
+	<a href="{{permalink}}" class="langswitcher_link">
+		<span class="langswitcher_link_title">{{ permalinkTitle }}</span>
+		<img class="langswitcher_link_flag" src="{{ flagHref }}" alt="{{ flagtAlt }}" />
+	</a>
+</div>

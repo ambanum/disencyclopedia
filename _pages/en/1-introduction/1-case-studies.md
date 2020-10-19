@@ -6,6 +6,8 @@ nav_order: 1
 lang: en
 ---
 
+{% include langswitcher.html %}
+
 # Examples of information manipulation campaigns
 
 This page references recent, important and documented campaigns to illustrate the diversity of information manipulation, in terms of sources, channels used and goals pursued.
