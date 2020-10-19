@@ -1,6 +1,6 @@
 ---
 title: Définitions
-permalink: /encyclopedie/definitions
+permalink: /introduction/definitions/fr
 nav_order: 2
 layout: default
 nav_exclude: true

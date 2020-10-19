@@ -1,6 +1,6 @@
 ---
 title: Exemples de campagnes de manipulation de l’information
-permalink: /encyclopedie/exemples
+permalink: /introduction/examples/fr
 nav_order: 3
 layout: default
 nav_exclude: true
