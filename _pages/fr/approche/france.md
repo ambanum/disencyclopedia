@@ -1,6 +1,6 @@
 ---
 title: Approche française
-permalink: /encyclopedia/position/france/fr
+permalink: /position/france/fr
 nav_order: 1
 layout: default
 nav_exclude: true

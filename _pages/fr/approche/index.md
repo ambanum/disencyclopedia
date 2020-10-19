@@ -1,7 +1,7 @@
 ---
 nav_order: 3
 has_children: true
-permalink: /encyclopedia/position/fr
+permalink: /position/fr
 begins_new_menu_section: true
 nav_exclude: true
 ---
