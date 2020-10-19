@@ -3,6 +3,7 @@ parent: Attribution
 title: Practices
 nav_order: 2
 permalink: /attribution/practices
+lang: en
 ---
 
 # Attribution practices

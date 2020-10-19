@@ -4,6 +4,7 @@ permalink: /publications/
 nav_order: 10
 layout: default
 nav_exclude: false
+lang: en
 ---
 
 

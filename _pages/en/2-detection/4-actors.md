@@ -3,6 +3,7 @@ parent: Detection
 title: Actors
 nav_order: 4
 permalink: /detection/actors
+lang: en
 ---
 
 # Detection actors

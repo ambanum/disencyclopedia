@@ -3,6 +3,7 @@ parent: Prevention
 title: Actors
 nav_order: 4
 permalink: /prevention/actors
+lang: en
 ---
 
 # Prevention actors

@@ -3,6 +3,7 @@ parent: Reaction
 title: Actors
 nav_order: 4
 permalink: /reaction/actors
+lang: en
 ---
 
 # Reaction actors

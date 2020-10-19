@@ -4,6 +4,7 @@ permalink: /introduction/examples/fr
 nav_order: 3
 layout: default
 nav_exclude: true
+lang: fr
 ---
 
 # Exemples de campagnes de manipulation de l’information

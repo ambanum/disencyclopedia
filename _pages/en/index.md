@@ -5,6 +5,7 @@ permalink: /
 title: Introduction
 numbered_headers: false
 css: home
+lang: en
 ---
 
 ## If you’re reading this, you’re probably trying to counter disinformation.

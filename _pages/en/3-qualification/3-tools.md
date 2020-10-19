@@ -3,6 +3,7 @@ parent: Qualification
 title: Tools
 nav_order: 3
 permalink: /qualification/tools
+lang: en
 ---
 
 # Qualification tools

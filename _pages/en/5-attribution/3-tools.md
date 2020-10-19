@@ -3,6 +3,7 @@ parent: Attribution
 title: Tools
 nav_order: 3
 permalink: /attribution/tools
+lang: en
 ---
 
 # Attribution tools

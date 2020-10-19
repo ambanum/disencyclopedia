@@ -3,6 +3,7 @@ parent: Prevention
 title: Tools
 nav_order: 3
 permalink: /prevention/tools
+lang: en
 ---
 
 # Prevention tools
