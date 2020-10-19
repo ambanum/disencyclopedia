@@ -5,7 +5,7 @@ include: ['_pages']
 
 title: Disencyclopedia
 baseurl: ""
-url: https://disinfo.quaidorsay.fr
+url: https://disinfo.quaidorsay.fr/encyclopedia
 
 search_enabled: true
 

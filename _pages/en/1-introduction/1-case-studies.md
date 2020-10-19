@@ -1,7 +1,7 @@
 ---
 parent: Introduction
 title: Case studies
-permalink: /encyclopedia/introduction/examples
+permalink: /introduction/examples
 nav_order: 1
 ---
 
