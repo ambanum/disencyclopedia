@@ -2,7 +2,7 @@
 parent: Prevention
 title: Actors
 nav_order: 4
-permalink: /encyclopedia/prevention/actors
+permalink: /prevention/actors
 ---
 
 # Prevention actors

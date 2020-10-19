@@ -1,7 +1,7 @@
 ---
 nav_order: 6
 has_children: true
-permalink: /encyclopedia/attribution
+permalink: /attribution
 ---
 
 # Attribution

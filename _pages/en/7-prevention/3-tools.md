@@ -2,7 +2,7 @@
 parent: Prevention
 title: Tools
 nav_order: 3
-permalink: /encyclopedia/prevention/tools
+permalink: /prevention/tools
 ---
 
 # Prevention tools

@@ -2,7 +2,7 @@
 parent: Attribution
 title: Practices
 nav_order: 2
-permalink: /encyclopedia/attribution/practices
+permalink: /attribution/practices
 ---
 
 # Attribution practices

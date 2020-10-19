@@ -2,7 +2,7 @@
 parent: Detection
 title: Actors
 nav_order: 4
-permalink: /encyclopedia/detection/actors
+permalink: /detection/actors
 ---
 
 # Detection actors

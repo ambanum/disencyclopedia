@@ -2,7 +2,7 @@
 parent: Detection
 title: Tools
 nav_order: 3
-permalink: /encyclopedia/detection/tools
+permalink: /detection/tools
 ---
 
 # Detection tools

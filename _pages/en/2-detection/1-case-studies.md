@@ -2,7 +2,7 @@
 parent: Detection
 title: Case studies
 nav_order: 1
-permalink: /encyclopedia/detection/case-studies
+permalink: /detection/case-studies
 ---
 
 # Detection case studies

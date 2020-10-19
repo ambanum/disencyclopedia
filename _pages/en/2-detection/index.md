@@ -1,7 +1,7 @@
 ---
 nav_order: 3
 has_children: true
-permalink: /encyclopedia/detection
+permalink: /detection
 begins_new_menu_section: true
 ---
 

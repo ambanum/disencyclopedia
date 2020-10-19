@@ -1,7 +1,7 @@
 ---
 nav_order: 8
 has_children: true
-permalink: /encyclopedia/prevention
+permalink: /prevention
 ---
 
 # Prevention

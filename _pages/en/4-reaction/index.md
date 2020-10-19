@@ -1,7 +1,7 @@
 ---
 nav_order: 5
 has_children: true
-permalink: /encyclopedia/reaction
+permalink: /reaction
 ---
 
 # Reaction

@@ -2,7 +2,7 @@
 parent: Attribution
 title: Case studies
 nav_order: 1
-permalink: /encyclopedia/attribution/case-studies
+permalink: /attribution/case-studies
 ---
 
 # Attribution case studies

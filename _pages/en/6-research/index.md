@@ -1,7 +1,7 @@
 ---
 nav_order: 7
 has_children: true
-permalink: /encyclopedia/research
+permalink: /research
 ---
 
 # Research

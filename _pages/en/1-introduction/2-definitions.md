@@ -1,7 +1,7 @@
 ---
 parent: Introduction
 title: Definitions
-permalink: /encyclopedia/introduction/definitions
+permalink: /introduction/definitions
 nav_order: 2
 numbered_headers: false
 ---

@@ -2,7 +2,7 @@
 parent: Qualification
 title: Practices
 nav_order: 2
-permalink: /encyclopedia/qualification/practices
+permalink: /qualification/practices
 numbered_headers: false
 ---
 

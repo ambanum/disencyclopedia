@@ -2,7 +2,7 @@
 parent: Prevention
 title: Practices
 nav_order: 2
-permalink: /encyclopedia/prevention/practices
+permalink: /prevention/practices
 ---
 
 # Prevention practices

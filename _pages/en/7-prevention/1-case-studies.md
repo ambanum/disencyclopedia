@@ -2,7 +2,7 @@
 parent: Prevention
 title: Case studies
 nav_order: 1
-permalink: /encyclopedia/prevention/case-studies
+permalink: /prevention/case-studies
 ---
 
 # Prevention case studies

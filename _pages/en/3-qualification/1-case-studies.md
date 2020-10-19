@@ -2,7 +2,7 @@
 parent: Qualification
 title: Case studies
 nav_order: 1
-permalink: /encyclopedia/qualification/case-studies
+permalink: /qualification/case-studies
 ---
 
 # Qualification case studies

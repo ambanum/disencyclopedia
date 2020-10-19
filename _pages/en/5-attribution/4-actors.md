@@ -2,7 +2,7 @@
 parent: Attribution
 title: Actors
 nav_order: 4
-permalink: /encyclopedia/attribution/actors
+permalink: /attribution/actors
 ---
 
 # Attribution actors
