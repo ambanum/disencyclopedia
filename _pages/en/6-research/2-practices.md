@@ -2,7 +2,7 @@
 parent: Research
 title: Practices
 nav_order: 2
-permalink: /research/practices
+permalink: /encyclopedia/research/practices
 ---
 
 # Research practices

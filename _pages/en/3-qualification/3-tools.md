@@ -2,7 +2,7 @@
 parent: Qualification
 title: Tools
 nav_order: 3
-permalink: /qualification/tools
+permalink: /encyclopedia/qualification/tools
 ---
 
 # Qualification tools

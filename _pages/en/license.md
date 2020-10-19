@@ -1,5 +1,6 @@
 ---
-permalink: /license
+layout: encyclopedia
+permalink: /encyclopedia/license
 title: License
 nav_order: 16
 numbered_headers: false

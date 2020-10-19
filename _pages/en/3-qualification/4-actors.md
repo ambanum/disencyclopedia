@@ -2,7 +2,7 @@
 parent: Qualification
 title: Actors
 nav_order: 4
-permalink: /qualification/actors
+permalink: /encyclopedia/qualification/actors
 ---
 
 # Qualification actors

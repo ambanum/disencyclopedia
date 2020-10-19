@@ -2,7 +2,7 @@
 parent: Research
 title: Case studies
 nav_order: 1
-permalink: /research/case-studies
+permalink: /encyclopedia/research/case-studies
 ---
 
 # Research case studies

@@ -2,7 +2,7 @@
 parent: Reaction
 title: Practices
 nav_order: 2
-permalink: /reaction/practices
+permalink: /encyclopedia/reaction/practices
 ---
 
 # Reaction practices

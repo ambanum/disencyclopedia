@@ -2,7 +2,7 @@
 parent: Research
 title: Actors
 nav_order: 4
-permalink: /research/actors
+permalink: /encyclopedia/research/actors
 ---
 
 # Research actors

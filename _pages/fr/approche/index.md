@@ -1,5 +1,4 @@
 ---
-nav_exclude: true
 nav_order: 3
 has_children: true
 permalink: /encyclopedie/approche

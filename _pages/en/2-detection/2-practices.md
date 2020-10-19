@@ -2,7 +2,7 @@
 parent: Detection
 title: Practices
 nav_order: 2
-permalink: /detection/practices
+permalink: /encyclopedia/detection/practices
 numbered_headers: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Publications
-permalink: /publications/
+permalink: /encyclopedia/publications/
 nav_order: 10
 layout: default
 nav_exclude: false
