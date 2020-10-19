@@ -7,6 +7,8 @@ numbered_headers: false
 lang: en
 ---
 
+{% include langswitcher.html %}
+
 # Definitions
 
 The topic is riddled with an abundance of terms mixing different realities. By consolidating the definitions, we want to facilitate exchanges.

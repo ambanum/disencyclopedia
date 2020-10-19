@@ -1,7 +1,7 @@
 ---
 title: Exemples de campagnes de manipulation de l’information
 permalink: /introduction/examples/fr
-nav_order: 3
+nav_order: 1
 layout: default
 nav_exclude: true
 lang: fr
