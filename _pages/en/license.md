@@ -1,9 +1,9 @@
 ---
-layout: encyclopedia
-permalink: /encyclopedia/license
+permalink: /license
 title: License
 nav_order: 16
 numbered_headers: false
+lang: en
 ---
 
 # License CC-BY-SA
