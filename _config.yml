@@ -26,6 +26,3 @@ exclude:
 
 kramdown:
   toc_levels: 2..4
-
-plugins:
-  - jekyll-redirect-from

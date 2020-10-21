@@ -6,7 +6,6 @@ layout: default
 nav_exclude: true
 numbered_headers: false
 lang: fr
-redirect_from: /encyclopedie/definitions
 ---
 
 {% include langswitcher.html %}
