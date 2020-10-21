@@ -5,7 +5,7 @@ include: ['_pages']
 
 title: Disencyclopedia
 baseurl: ""
-url: https://disinfo.quaidorsay.fr/encyclopedia
+url: "https://disinfo.quaidorsay.fr/encyclopedia"
 
 search_enabled: true
 
@@ -26,3 +26,6 @@ exclude:
 
 kramdown:
   toc_levels: 2..4
+
+plugins:
+  - jekyll-redirect-from

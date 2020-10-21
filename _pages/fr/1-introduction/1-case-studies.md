@@ -5,6 +5,7 @@ nav_order: 1
 layout: default
 nav_exclude: true
 lang: fr
+redirect_from: /encyclopedie/exemples
 ---
 
 {% include langswitcher.html %}
