@@ -21,9 +21,9 @@ Reports often use simplistic ways to assess impact, simply summing the number of
 
 The team of the French Ambassador for Digital Affairs offers a way to compensate that tendency: [Media Scale](https://github.com/ambanum/media-scale). Rather than focusing on the quantitative aspect, it offers a scale of relevance by putting the number of shares in perspective with reference articles shares for a given cultural context.
 
-![Media Scale chatbot works by typing in a region code and a share count](/assets/img/3-qualification/3-tools/media-scale-chatbot-help.png)
-![For example, share fr 1004](/assets/img/3-qualification/3-tools/media-scale-chatbot-request.png)
-![1004 shares for an article in France is equivalent to “Le bassin de la Villette temporairement fermé à la baignade” by Le Monde in June 2017](/assets/img/3-qualification/3-tools/media-scale-chatbot-result.png)
+![Media Scale chatbot works by typing in a region code and a share count](/encyclopedia/assets/img/3-qualification/3-tools/media-scale-chatbot-help.png)
+![For example, share fr 1004](/encyclopedia/assets/img/3-qualification/3-tools/media-scale-chatbot-request.png)
+![1004 shares for an article in France is equivalent to “Le bassin de la Villette temporairement fermé à la baignade” by Le Monde in June 2017](/encyclopedia/assets/img/3-qualification/3-tools/media-scale-chatbot-result.png)
 
 This more qualitative approach helps give perspective to readers of threat notices that might be further away from the topics, and prioritise their own qualification work.
 
@@ -105,7 +105,7 @@ This evaluation was made on a dataset that we built to be highly varied, however
 
 ###### Results
 
-[![Botometer assessment](/assets/img/3-qualification/3-tools/botometer-scatterplot.png)](/assets/img/3-qualification/3-tools/botometer-scatterplot.png)
+[![Botometer assessment](/encyclopedia/assets/img/3-qualification/3-tools/botometer-scatterplot.png)](/encyclopedia/assets/img/3-qualification/3-tools/botometer-scatterplot.png)
 
 The two main clusters of accounts that were evaluated both as authentic or both as inauthentic by humans and Botometer, indicates that Botometer generally makes guesses similar to humans, even in a non-English context.
 
@@ -115,7 +115,7 @@ This tool gives users the probability that Twitter accounts that have tweeted a 
 
 All that a user has to do is send a link to one piece of content to the bot via the "Analysis" channel of our [collaboration chat](/collaborate).
 
-![On the latest 94 retweets of “some tweet”, 7% have a high probablity to be made by bots, 57% have a high probability to be made by humans, for the remaining 36% it’s hard to tell](/assets/img/3-qualification/3-tools/botometer-chatbot.png)
+![On the latest 94 retweets of “some tweet”, 7% have a high probablity to be made by bots, 57% have a high probability to be made by humans, for the remaining 36% it’s hard to tell](/encyclopedia/assets/img/3-qualification/3-tools/botometer-chatbot.png)
 
 The bot assesses the probability that the accounts that have tweeted said content (up to 100 accounts) during the last seven days are robots.
 
