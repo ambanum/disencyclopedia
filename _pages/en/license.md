@@ -1,5 +1,5 @@
 ---
-permalink: /license
+permalink: /license.html
 begins_new_menu_section: true
 title: License
 nav_order: 16
