@@ -3,12 +3,12 @@
 		{% capture permalink %}{{ site.baseurl }}{{ page.permalink }}/fr{% endcapture %}
 		{% assign permalinkTitle = "Consulter ce document en français" %}
 		{% assign flagHref = "/encyclopedia/assets/img/flags/fr.svg" %}
-		{% assign flagAlt = "Drapeau français" %}
+		{% assign flagAlt = "Passer au français" %}
 	{% when "fr" %}
 		{% capture permalink %}{{ site.baseurl }}{{ page.permalink | remove: "/fr" }}{% endcapture %}
 		{% assign permalinkTitle = "Read this document in English" %}
 		{% assign flagHref = "/encyclopedia/assets/img/flags/gb.svg" %}
-		{% assign flagAlt = "English flag" %}
+		{% assign flagAlt = "Switch to English language" %}
 {% endcase %}
 
 <div class="langswitcher">
