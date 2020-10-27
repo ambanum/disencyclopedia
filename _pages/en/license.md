@@ -1,5 +1,6 @@
 ---
-permalink: /license
+permalink: /license.html
+begins_new_menu_section: true
 title: License
 nav_order: 16
 numbered_headers: false
@@ -23,4 +24,4 @@ This is a human-readable summary and not a substitute for the [license](https://
 ### Illustrations
 
 We provide an archive with all the illustrations of the encyclopedia's graphic vocabulary to facilitate reuse.
-[Download encyclopedia's illustrations](/assets/img/illustrations.zip){: .btn .btn-purple .mt-4}
+[Download encyclopedia's illustrations]({{ "assets/img/illustrations.zip" | relative_url }}){: .btn .btn-purple .mt-4}

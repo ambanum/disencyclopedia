@@ -1,9 +1,9 @@
 ---
-nav_exclude: true
 nav_order: 3
 has_children: true
-permalink: /encyclopedie/approche
+permalink: /position/fr
 begins_new_menu_section: true
+nav_exclude: true
 ---
 
 # Approches

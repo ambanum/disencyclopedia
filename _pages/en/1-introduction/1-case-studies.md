@@ -5,6 +5,8 @@ permalink: /introduction/examples
 nav_order: 1
 ---
 
+{% include langswitcher.html %}
+
 # Examples of information manipulation campaigns
 
 This page references recent, important and documented campaigns to illustrate the diversity of information manipulation, in terms of sources, channels used and goals pursued.
@@ -15,9 +17,9 @@ Information manipulation can be orchestrated by a variety of sources: state or n
 These sources may position themselves in different ways in relation to the audience targeted by the information manipulation. Thus, in the case of what can be described as “exogenous” manipulation, the source is outside the target community, or does not depend directly on it.
 Conversely, in a manipulation of information that can be described as “endogenous”, the source belongs to the target community, the target country or is highly dependent on it.
 
-When the manipulation of information originates from a foreign state source, it is an [interference](/glossary#interference).
+When the manipulation of information originates from a foreign state source, it is an [interference]({{ "glossary#interference" | relative_url }}).
 
-One of the greatest difficulties in countering information manipulation is [attributing](/attribution) campaigns. Tracing the identity of the source and attributing responsibility is always complex, and certainty is almost impossible to achieve. This is made even harder by the fact that third parties may give false clues to mislead attribution. For this reason, all the examples of campaigns given below only list the sources suspected by the authors of the analyses, and do not represent official attribution.
+One of the greatest difficulties in countering information manipulation is [attributing]({{ "attribution" | relative_url }}) campaigns. Tracing the identity of the source and attributing responsibility is always complex, and certainty is almost impossible to achieve. This is made even harder by the fact that third parties may give false clues to mislead attribution. For this reason, all the examples of campaigns given below only list the sources suspected by the authors of the analyses, and do not represent official attribution.
 
 | The Macron Leaks |
 |-|
