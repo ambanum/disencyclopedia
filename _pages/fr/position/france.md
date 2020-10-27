@@ -14,12 +14,12 @@ La France privilégie l'emploi du terme générique de [manipulations de l’inf
 
 La France considère par exemple que le terme de _désinformation_ est à la fois trop large, en ce qu'il inclut aussi la désinformation bénigne, sans intention hostile, et trop étroit, en ce qu'il implique que le procédé se réfère systématiquement à de la désinformation _stricto sensu_ (diffusion volontaire d'informations fausses ou trompeuses). En effet, l’information peut être fausse, mais également exagérée, biaisée, ou présentée de façon très émotionnelle.
 
-La [loi française de 2018 contre la manipulation de l'information](https://disinfo.quaidorsay.fr/encyclopedia/reaction/case-studies#legislation) a ancré l'utilisation de ce terme dans la loi.
+La [loi française de 2018 contre la manipulation de l'information]({{ "reaction/case-studies" | relative_url | append: "#legislation" }}) a ancré l'utilisation de ce terme dans la loi.
 
 
 ## Critères
 
-Le ministère de l’Europe et des Affaires étrangères utilise une définition précise des manipulations de l’information qui s'appuie sur six [critères](/encyclopedia) cumulatifs :
+Le ministère de l’Europe et des Affaires étrangères utilise une définition précise des manipulations de l’information qui s'appuie sur six [critères]({{ "/" | relative_url }}) cumulatifs :
 
 1. diffusion intentionnelle ;
 2. diffusion massive ;
@@ -39,9 +39,9 @@ Un premier travail de définition du sujet, de ses champs d'action et d'analyse 
 
 Au sein du ministère, l'équipe de l'[Ambassadeur pour le numérique](https://twitter.com/AmbNum) coordonne et valorise les positions de la France sur les enjeux de lutte contre les manipulations de l'information et de coopération européenne et internationale :
 
-- Elle représente la France au sein des différents espaces d'échange européens, comme le [Système d'Alerte Rapide européen](/encyclopedia/reaction/actors#eu-rapid-alert-system-ras) et internationaux, à l'image du [Mécanisme de Réponse Rapide du G7](/encyclopedia/reaction/actors#g7-rapid-reaction-mechanism-rrm).
+- Elle représente la France au sein des différents espaces d'échange européens, comme le [Système d'Alerte Rapide européen]({{ "reaction/actors" | relative_url | append: "#eu-rapid-alert-system-ras" }}) et internationaux, à l'image du [Mécanisme de Réponse Rapide du G7]({{ "reaction/actors" | relative_url | append: "#g7-rapid-reaction-mechanism-rrm" }}).
 - Elle travaille également avec les différents acteurs de la société civile internationale. L'organisation en juin 2019 d'une [non-conférence](/unconference-27-28-june-2019/) a par exemple permis de mobiliser une cinquantaine d'acteurs investis sur ces sujets (équipes de recherche en sciences sociales, devs, ONGs, acteurs publics et opérateurs de médias sociaux).
-- Elle construit des [outils ouverts](/) et fait coopérer les acteurs pertinents pour influencer la gouvernance internationale afin d'aboutir à une règlementation efficace et proportionnée.
+- Elle construit des [outils ouverts]({{ "/" | relative_url }}) et fait coopérer les acteurs pertinents pour influencer la gouvernance internationale afin d'aboutir à une règlementation efficace et proportionnée.
 - Elle anime un dialogue stratégique sur ces sujets avec les grands acteurs du numérique, dont les opérateurs de médias sociaux.
 
 ### Direction de la communication et de la presse
