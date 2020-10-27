@@ -3,7 +3,6 @@ parent: Qualification
 title: Actors
 nav_order: 4
 permalink: /qualification/actors
-lang: en
 ---
 
 # Qualification actors

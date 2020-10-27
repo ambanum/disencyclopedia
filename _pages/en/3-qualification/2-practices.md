@@ -4,7 +4,6 @@ title: Practices
 nav_order: 2
 permalink: /qualification/practices
 numbered_headers: false
-lang: en
 ---
 
 # Qualification practices

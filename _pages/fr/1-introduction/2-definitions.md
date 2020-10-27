@@ -5,7 +5,6 @@ nav_order: 2
 layout: default
 nav_exclude: true
 numbered_headers: false
-lang: fr
 ---
 
 {% include langswitcher.html %}

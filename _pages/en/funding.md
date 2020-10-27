@@ -2,7 +2,6 @@
 permalink: /funders/
 nav_order: 9
 begins_new_menu_section: true
-lang: en
 ---
 
 # Funding

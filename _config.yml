@@ -18,6 +18,16 @@ defaults:
       nav_exclude: false
       numbered_headers: true
       search_exclude: false
+  -
+    scope:
+      path: _pages/en
+    values:
+      lang: en
+  -
+    scope:
+      path: _pages/fr
+    values:
+      lang: fr
 
 exclude:
   - README.md

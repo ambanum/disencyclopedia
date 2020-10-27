@@ -3,7 +3,6 @@ nav_order: 3
 has_children: true
 permalink: /detection
 begins_new_menu_section: true
-lang: en
 ---
 
 # Detection

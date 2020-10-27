@@ -3,7 +3,6 @@ parent: Introduction
 title: Case studies
 permalink: /introduction/examples
 nav_order: 1
-lang: en
 ---
 
 {% include langswitcher.html %}

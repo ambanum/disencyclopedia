@@ -3,7 +3,6 @@ parent: Reaction
 title: Tools
 nav_order: 3
 permalink: /reaction/tools
-lang: en
 ---
 
 # Reaction tools

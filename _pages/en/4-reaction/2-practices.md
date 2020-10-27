@@ -3,7 +3,6 @@ parent: Reaction
 title: Practices
 nav_order: 2
 permalink: /reaction/practices
-lang: en
 ---
 
 # Reaction practices

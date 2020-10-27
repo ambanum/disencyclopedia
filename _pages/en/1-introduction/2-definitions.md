@@ -4,7 +4,6 @@ title: Definitions
 permalink: /introduction/definitions
 nav_order: 2
 numbered_headers: false
-lang: en
 ---
 
 {% include langswitcher.html %}

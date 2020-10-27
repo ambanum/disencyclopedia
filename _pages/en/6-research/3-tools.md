@@ -3,7 +3,6 @@ parent: Research
 title: Tools
 nav_order: 3
 permalink: /research/tools
-lang: en
 ---
 
 # Research tools

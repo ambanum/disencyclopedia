@@ -3,7 +3,6 @@ parent: Detection
 title: Case studies
 nav_order: 1
 permalink: /detection/case-studies
-lang: en
 ---
 
 # Detection case studies

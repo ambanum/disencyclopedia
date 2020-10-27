@@ -4,7 +4,6 @@ begins_new_menu_section: true
 title: License
 nav_order: 16
 numbered_headers: false
-lang: en
 ---
 
 # License CC-BY-SA

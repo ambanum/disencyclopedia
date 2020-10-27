@@ -3,7 +3,6 @@ parent: Reaction
 title: Case studies
 nav_order: 1
 permalink: /reaction/case-studies
-lang: en
 ---
 
 # Reaction case studies

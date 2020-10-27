@@ -4,7 +4,6 @@ title: Practices
 nav_order: 2
 permalink: /detection/practices
 numbered_headers: false
-lang: en
 ---
 
 # Detection practices

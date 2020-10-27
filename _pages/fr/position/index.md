@@ -4,7 +4,6 @@ has_children: true
 permalink: /position/fr
 begins_new_menu_section: true
 nav_exclude: true
-lang: fr
 ---
 
 # Approches

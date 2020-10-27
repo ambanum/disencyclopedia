@@ -3,7 +3,6 @@ parent: Attribution
 title: Case studies
 nav_order: 1
 permalink: /attribution/case-studies
-lang: en
 ---
 
 # Attribution case studies

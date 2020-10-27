@@ -3,7 +3,6 @@ parent: Research
 title: Case studies
 nav_order: 1
 permalink: /research/case-studies
-lang: en
 ---
 
 # Research case studies

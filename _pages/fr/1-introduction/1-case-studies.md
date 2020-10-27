@@ -4,7 +4,6 @@ permalink: /introduction/examples/fr
 nav_order: 1
 layout: default
 nav_exclude: true
-lang: fr
 ---
 
 {% include langswitcher.html %}

@@ -3,7 +3,6 @@ parent: Detection
 title: Tools
 nav_order: 3
 permalink: /detection/tools
-lang: en
 ---
 
 # Detection tools

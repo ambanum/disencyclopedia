@@ -3,7 +3,6 @@ parent: Prevention
 title: Practices
 nav_order: 2
 permalink: /prevention/practices
-lang: en
 ---
 
 # Prevention practices

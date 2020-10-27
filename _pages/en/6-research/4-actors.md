@@ -3,7 +3,6 @@ parent: Research
 title: Actors
 nav_order: 4
 permalink: /research/actors
-lang: en
 ---
 
 # Research actors
