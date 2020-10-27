@@ -10,7 +10,7 @@ nav_exclude: true
 
 ## Vocabulaire
 
-La France privilégie l'emploi du terme générique de [manipulations de l’information](/encyclopedie/definitions), qui permet tant de rendre compte de l'intention hostile et du caractère massif et artificiel de la diffusion, que d’illustrer le fait que le procédé ne se positionne pas toujours vis-à-vis de la véracité de l’information.
+La France privilégie l'emploi du terme générique de [manipulations de l’information]({{ "definitions" | relative_url }}), qui permet tant de rendre compte de l'intention hostile et du caractère massif et artificiel de la diffusion, que d’illustrer le fait que le procédé ne se positionne pas toujours vis-à-vis de la véracité de l’information.
 
 La France considère par exemple que le terme de _désinformation_ est à la fois trop large, en ce qu'il inclut aussi la désinformation bénigne, sans intention hostile, et trop étroit, en ce qu'il implique que le procédé se réfère systématiquement à de la désinformation _stricto sensu_ (diffusion volontaire d'informations fausses ou trompeuses). En effet, l’information peut être fausse, mais également exagérée, biaisée, ou présentée de façon très émotionnelle.
 
