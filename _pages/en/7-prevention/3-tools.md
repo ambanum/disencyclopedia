@@ -31,6 +31,10 @@ Its goal is to improve digital media literacy for adults, by developing their cr
 
 The main deliverable is a curated [catalogue](https://www.openyoureyes.info/en/database/list) of European educational practices, scientific data and initiatives on disinformation. The seven European [partners](https://www.openyoureyes.info/en/partners) of the project will use this catalogue to train educators to deliver classes. These “Check IT Out” Labs will target small groups of European adult learners.
 
+### Gapminder
+
+[Gapminder](https://www.gapminder.org) is an independent Swedish educational non-proﬁt ﬁghting global misconceptions through simple interactive questions-and-answers experiences, curated around the UN development goals.
+
 
 ## For public institutions
 
